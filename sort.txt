@@ -1,0 +1,1 @@
+['chitkara university is best university', 'good day\n', 'today is wednesday\n']
